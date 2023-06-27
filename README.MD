@@ -93,6 +93,9 @@ Library
 Base_Mimcrosservice
 - src
 - test
+- .github
+  - workflows
+    - cicd.yaml
 .gitignore
 .package.json
 README.md
@@ -100,8 +103,5 @@ README.md
 .env.example
 .env
 .eslintrc
-- .github
-  - workflows
-    cicd.yaml
 DockerFile
 .dockerignore
