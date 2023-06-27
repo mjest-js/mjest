@@ -80,7 +80,7 @@ mjest generate base directory to microsservices
 
 <h2> base structures </h2>
 
-Directory of Mimcrosservices
+Directory of Microsservices
 ```
 ├──  authentication
 ├──  authorization
