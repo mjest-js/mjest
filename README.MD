@@ -80,18 +80,31 @@ mjest generate base directory to microsservices
 
 <h2> base structures </h2>
 
-Base_Mimcrosservices
-- authentication
-- authorization
-- eventEmitter
-- gateway
-- logger
+Directory of Mimcrosservices
+├──  authentication
+├──  authorization
+├──  eventEmitter
+├──  gateway
+├──  logger
 
-Library
-- endpointDispatcher
+Library endpointDispatcher
 
-Base_Mimcrosservice
+```
+├── .gitignore
+├── .package.json
+├── README.md
+├── .babelrc
+├── .env.example
+├── .env
+├── .eslintrc
+├── src
+├── test
+└── .github
+    ├── cicd.yml
+    └── publish.yml
+```
 
+Microsservice
 
 ```
 ├── .gitignore
