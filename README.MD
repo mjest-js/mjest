@@ -72,3 +72,20 @@ Contributions are welcome! See the Contributing Guidelines for more details.
 <h2> License </h2>
 
 This project is licensed under the MIT License.
+ google cloud
+
+```bash
+mjest generate base directory to microsservices
+```
+
+<h2> directory structure </h2>
+
+Base_Mimcrosservices
+|_authentication
+|_authorization
+|_eventEmitter
+|_gateway
+|_logger
+
+Library
+|_endpointDispatcher
