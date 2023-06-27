@@ -78,14 +78,14 @@ This project is licensed under the MIT License.
 mjest generate base directory to microsservices
 ```
 
-<h2> directory structure </h2>
+<h2> generate base structures </h2>
 
 Base_Mimcrosservices
-|_authentication
-|_authorization
-|_eventEmitter
-|_gateway
-|_logger
+- authentication
+- authorization
+- eventEmitter
+- gateway
+- logger
 
 Library
-|_endpointDispatcher
+- endpointDispatcher
