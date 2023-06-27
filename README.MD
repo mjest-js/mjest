@@ -78,7 +78,7 @@ This project is licensed under the MIT License.
 mjest generate base directory to microsservices
 ```
 
-<h2> generate base structures </h2>
+<h2> base structures </h2>
 
 Base_Mimcrosservices
 - authentication
@@ -89,3 +89,19 @@ Base_Mimcrosservices
 
 Library
 - endpointDispatcher
+
+Base_Mimcrosservice
+- src
+- test
+.gitignore
+.package.json
+README.md
+.babelrc
+.env.example
+.env
+.eslintrc
+- .github
+  - workflows
+    cicd.yaml
+DockerFile
+.dockerignore
