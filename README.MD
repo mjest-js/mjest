@@ -81,11 +81,13 @@ mjest generate base directory to microsservices
 <h2> base structures </h2>
 
 Directory of Mimcrosservices
+```
 ├──  authentication
 ├──  authorization
 ├──  eventEmitter
 ├──  gateway
-├──  logger
+└── logger
+```
 
 Library endpointDispatcher
 
