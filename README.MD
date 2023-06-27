@@ -91,13 +91,13 @@ Library
 - endpointDispatcher
 
 Base_Mimcrosservice
-.gitignore
-.package.json
-README.md
-.babelrc
-.env.example
-.env
-.eslintrc
+| .gitignore
+| .package.json
+| README.md
+| .babelrc
+| .env.example
+| .env
+| .eslintrc
 DockerFile
 .dockerignore
 - src
