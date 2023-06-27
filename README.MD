@@ -91,18 +91,20 @@ Library
 - endpointDispatcher
 
 Base_Mimcrosservice
-| .gitignore
-| .package.json
-| README.md
-| .babelrc
-| .env.example
-| .env
-| .eslintrc
-DockerFile
-.dockerignore
-- src
-- test
-- .github
-  - workflows
-    - cicd.yaml
 
+
+```
+├── .gitignore
+├── .package.json
+├── README.md
+├── .babelrc
+├── .env.example
+├── .env
+├── .eslintrc
+└── src
+    ├── index.js
+    ├── models.js
+└── test
+└── .github
+    ├── cicd.yaml
+```
